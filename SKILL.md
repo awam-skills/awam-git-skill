@@ -1,5 +1,6 @@
 ---
 name: awam-git
+version: 0.0.1
 description: >-
   为仓库安装 Awam 团队 Git 提交规范（Conventional Commits + 中文提交信息），写入
   `.cursor/rules/git-commit.mdc` 与根目录 `.cursorrules`。在用户提到 awam-git、
